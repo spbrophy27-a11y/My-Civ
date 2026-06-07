@@ -9,8 +9,6 @@
 		"rangedStrength": 44,
 		"range": 4,
 		"cost": 40,
-		"requiredTech": "",
-		"requiredResource": "",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
