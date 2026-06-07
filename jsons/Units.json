@@ -8,7 +8,7 @@
 		"strength": 140,
 		"rangedStrength": 44,
 		"range": 4,
-		"cost": 400,
+		"cost": 40,
 		"requiredTech": "",
 		"requiredResource": "",
 		"promotions": ["Logistics","Accuracy I"],
